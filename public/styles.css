@@ -1,0 +1,22 @@
+body{
+    margin: auto;
+    width: 100vw;
+    text-align: center;
+    display: flex;
+}
+
+h1{
+    width: 100%;
+    margin: auto;
+   
+}
+
+#newContainer{
+    margin: auto;
+}
+
+p{
+    margin: auto;
+    width: 30vw;
+    margin-top: 100px;
+}
